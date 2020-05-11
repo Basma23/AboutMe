@@ -49,12 +49,12 @@ var Q3 = prompt('Do I love coffee?');
 console.log(Q3);
 switch(Q3.toLocaleLowerCase()){
     case 'yes':
-       alert('You said '+Q3+', but unforcionatly no :(');
-       console.log('You said '+Q3+', but unforcionatly no :(');
+       alert('You said '+Q3+', but actually no :(');
+       console.log('You said '+Q3+', but actually no :(');
        break;
     case 'y':
-       alert('You said '+Q3+', but unforcionatly no :(');
-       console.log('You said '+Q3+', but unforcionatly no :(');
+       alert('You said '+Q3+', but actually no :(');
+       console.log('You said '+Q3+', but actually no :(');
        break;
     case 'no':
         alert('You said '+Q3+', and you guessed it');
