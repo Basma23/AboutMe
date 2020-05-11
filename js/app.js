@@ -21,8 +21,8 @@ switch(Q1.toLocaleLowerCase()){
         console.log('Oh my friend, you are boring. Did you say '+Q1+'. Come on, let\'s just do it. OK');  
         break; 
     case 'n':
-        alert('Oh my friend, you are boring. Let\'s just do it OK');
-        console.log('Oh my friend, you are boring. Let\'s just do it OK');  
+        alert('Oh my friend, you are boring. Did you say '+Q1+'. Come on, let\'s just do it. OK');
+        console.log('Oh my friend, you are boring. Did you say '+Q1+'. Come on, let\'s just do it. OK');  
         break;  
 }
 var Q2 = prompt('Did I complete my Bachelor\'s study?');
