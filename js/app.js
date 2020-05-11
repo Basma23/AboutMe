@@ -1,6 +1,6 @@
 'user strict'
 var uName = prompt('Wellcome to my website, what\'s your name?');
-console.log(uName);
+console.log('Wellcome to my website, what\'s your name? Your name\'s: '+uName);
 alert('Nice to see you here '+uName);
 console.log('Nice to see you here '+uName+', and wellcome again');
 alert('Now, I\'ll give you some quistions to let us know how much you are knowing us.');
