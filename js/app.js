@@ -94,7 +94,7 @@ function giss(){
     }
 } giss();
 function gissMore(){
-    var dishes = ['Yallengi','Fettuccini Alfredo','Shawarma','Zinger','Fahita','Pizza','Biryani','Yallengi','kabsa','Maqluba','Mansaf'];
+    var dishes = ['Yallengi','Fettuccini Alfredo','Shawarma','Zinger','Fahita','Pizza','Biryani','kabsa','Maqluba','Mansaf'];
     console.log(dishes);
     var newDishes = [];
     console.log(newDishes);
